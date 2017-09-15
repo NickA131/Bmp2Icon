@@ -1,5 +1,0 @@
-E:\Nick\VisualStudio2008\C#\Projects\Bmp2Icon\Bmp2Icon\bin\Debug\Bmp2Icon.exe
-E:\Nick\VisualStudio2008\C#\Projects\Bmp2Icon\Bmp2Icon\bin\Debug\Bmp2Icon.pdb
-E:\Nick\VisualStudio2008\C#\Projects\Bmp2Icon\Bmp2Icon\obj\Debug\ResolveAssemblyReference.cache
-E:\Nick\VisualStudio2008\C#\Projects\Bmp2Icon\Bmp2Icon\obj\Debug\Bmp2Icon.exe
-E:\Nick\VisualStudio2008\C#\Projects\Bmp2Icon\Bmp2Icon\obj\Debug\Bmp2Icon.pdb
