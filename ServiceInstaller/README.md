@@ -1,4 +1,4 @@
-#ServiceInstaller
+# ServiceInstaller
 A collection of classes to facilitate installation/uninstallation and console execution of a Windows Service.
 It includes a GenericService Service class providing a basic Service template
 
